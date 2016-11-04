@@ -1,1 +1,1 @@
-"# seraku24.github.io" 
+# seraku24.github.io
